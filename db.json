@@ -1,0 +1,549 @@
+{
+  "ksrtc": [
+    {
+      "from": "Thiruvananthapuram",
+      "to": "kollam",
+      "type": "Super fast",
+      "departure": "06:00 AM",
+      "arrival": "08:00 AM",
+      "distance": "70km",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": "8.5241",
+          "lng": "76.9366"
+        },
+        {
+          "name": "Kazhakkoottam",
+          "lat": "8.5737",
+          "lng": "76.8649"
+        },
+        {
+          "name": "Attingal",
+          "lat": "8.6956",
+          "lng": "76.8155"
+        },
+        {
+          "name": "Varkala",
+          "lat": "8.7333",
+          "lng": "76.7176"
+        },
+        {
+          "name": "Paravur",
+          "lat": "8.8058",
+          "lng": "76.6786"
+        },
+        {
+          "name": "Kollam",
+          "lat": "8.8932",
+          "lng": "76.6141"
+        }
+      ],
+      "id": "c8ce"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Pathanamthitta",
+      "type": "Limited Stop",
+      "departure": "06:30 AM",
+      "arrival": "10:00 AM",
+      "distance": "110 km",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Nedumangad",
+          "lat": 8.6021,
+          "lng": 77.0013
+        },
+        {
+          "name": "Palode",
+          "lat": 8.772,
+          "lng": 77.023
+        },
+        {
+          "name": "Konni",
+          "lat": 9.1346,
+          "lng": 76.8373
+        },
+        {
+          "name": "Pathanamthitta",
+          "lat": 9.2646,
+          "lng": 76.787
+        }
+      ],
+      "id": "d9b7"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Kottayam",
+      "type": "Super Fast",
+      "departure": "05:45 AM",
+      "arrival": "10:30 AM",
+      "distance": "150 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Kilimanoor",
+          "lat": 8.783,
+          "lng": 76.8649
+        },
+        {
+          "name": "Adoor",
+          "lat": 9.152,
+          "lng": 76.7316
+        },
+        {
+          "name": "Changanassery",
+          "lat": 9.4443,
+          "lng": 76.5361
+        },
+        {
+          "name": "Kottayam",
+          "lat": 9.5916,
+          "lng": 76.5222
+        }
+      ],
+      "id": "2a30"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Alappuzha",
+      "type": "Super Deluxe",
+      "departure": "07:00 AM",
+      "arrival": "11:00 AM",
+      "distance": "155 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Varkala",
+          "lat": 8.7333,
+          "lng": 76.7167
+        },
+        {
+          "name": "Karunagappally",
+          "lat": 9.0544,
+          "lng": 76.55
+        },
+        {
+          "name": "Haripad",
+          "lat": 9.2792,
+          "lng": 76.4732
+        },
+        {
+          "name": "Alappuzha",
+          "lat": 9.4981,
+          "lng": 76.3388
+        }
+      ],
+      "id": "81a7"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Ernakulam",
+      "type": "Super Deluxe",
+      "departure": "06:15 AM",
+      "arrival": "12:15 PM",
+      "distance": "215 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Kollam",
+          "lat": 8.8932,
+          "lng": 76.6141
+        },
+        {
+          "name": "Alappuzha",
+          "lat": 9.4981,
+          "lng": 76.3388
+        },
+        {
+          "name": "Cherthala",
+          "lat": 9.6861,
+          "lng": 76.34
+        },
+        {
+          "name": "Vyttila",
+          "lat": 9.9718,
+          "lng": 76.3181
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        }
+      ],
+      "id": "c1f4"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Thrissur",
+      "type": "Super Fast",
+      "departure": "05:30 AM",
+      "arrival": "01:00 PM",
+      "distance": "270 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Kollam",
+          "lat": 8.8932,
+          "lng": 76.6141
+        },
+        {
+          "name": "Alappuzha",
+          "lat": 9.4981,
+          "lng": 76.3388
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Aluva",
+          "lat": 10.1076,
+          "lng": 76.3511
+        },
+        {
+          "name": "Thrissur",
+          "lat": 10.5276,
+          "lng": 76.2144
+        }
+      ],
+      "id": "88ad"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Palakkad",
+      "type": "Super Deluxe",
+      "departure": "06:00 AM",
+      "arrival": "03:00 PM",
+      "distance": "310 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Thrissur",
+          "lat": 10.5276,
+          "lng": 76.2144
+        },
+        {
+          "name": "Alathur",
+          "lat": 10.576,
+          "lng": 76.5201
+        },
+        {
+          "name": "Palakkad",
+          "lat": 10.7867,
+          "lng": 76.6548
+        }
+      ],
+      "id": "15f3"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Malappuram",
+      "type": "Super Deluxe",
+      "departure": "05:30 AM",
+      "arrival": "03:30 PM",
+      "distance": "340 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Thrissur",
+          "lat": 10.5276,
+          "lng": 76.2144
+        },
+        {
+          "name": "Kunnamkulam",
+          "lat": 10.6464,
+          "lng": 76.0664
+        },
+        {
+          "name": "Malappuram",
+          "lat": 11.073,
+          "lng": 76.074
+        }
+      ],
+      "id": "4892"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Kozhikode",
+      "type": "Super Deluxe",
+      "departure": "05:00 AM",
+      "arrival": "04:00 PM",
+      "distance": "375 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Kollam",
+          "lat": 8.8932,
+          "lng": 76.6141
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Thrissur",
+          "lat": 10.5276,
+          "lng": 76.2144
+        },
+        {
+          "name": "Malappuram",
+          "lat": 11.073,
+          "lng": 76.074
+        },
+        {
+          "name": "Kozhikode",
+          "lat": 11.2588,
+          "lng": 75.7804
+        }
+      ],
+      "id": "09c7"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Wayanad",
+      "type": "Deluxe",
+      "departure": "05:15 AM",
+      "arrival": "05:00 PM",
+      "distance": "450 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Kozhikode",
+          "lat": 11.2588,
+          "lng": 75.7804
+        },
+        {
+          "name": "Kalpetta",
+          "lat": 11.6087,
+          "lng": 76.083
+        }
+      ],
+      "id": "9ab0"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Kannur",
+      "type": "Limited Stop",
+      "departure": "05:00 AM",
+      "arrival": "04:30 PM",
+      "distance": "430 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Kozhikode",
+          "lat": 11.2588,
+          "lng": 75.7804
+        },
+        {
+          "name": "Thalassery",
+          "lat": 11.748,
+          "lng": 75.4923
+        },
+        {
+          "name": "Kannur",
+          "lat": 11.8745,
+          "lng": 75.3704
+        }
+      ],
+      "id": "644b"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Kasaragod",
+      "type": "Super Express",
+      "departure": "04:45 AM",
+      "arrival": "06:30 PM",
+      "distance": "570 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Kozhikode",
+          "lat": 11.2588,
+          "lng": 75.7804
+        },
+        {
+          "name": "Kannur",
+          "lat": 11.8745,
+          "lng": 75.3704
+        },
+        {
+          "name": "Kanhangad",
+          "lat": 12.3317,
+          "lng": 75.0925
+        },
+        {
+          "name": "Kasaragod",
+          "lat": 12.4996,
+          "lng": 74.9896
+        }
+      ],
+      "id": "7609"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Thalassery",
+      "type": "Super Fast",
+      "departure": "05:20 AM",
+      "arrival": "04:45 PM",
+      "distance": "440 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Kozhikode",
+          "lat": 11.2588,
+          "lng": 75.7804
+        },
+        {
+          "name": "Mahe",
+          "lat": 11.7073,
+          "lng": 75.5344
+        },
+        {
+          "name": "Thalassery",
+          "lat": 11.748,
+          "lng": 75.4923
+        }
+      ],
+      "id": "41d7"
+    },
+    {
+      "from": "Thiruvananthapuram",
+      "to": "Guruvayur",
+      "type": "Super Deluxe",
+      "departure": "06:00 AM",
+      "arrival": "02:30 PM",
+      "distance": "285 km",
+      "status": "On Time",
+      "route": [
+        {
+          "name": "Thiruvananthapuram",
+          "lat": 8.5241,
+          "lng": 76.9366
+        },
+        {
+          "name": "Kollam",
+          "lat": 8.8932,
+          "lng": 76.6141
+        },
+        {
+          "name": "Ernakulam",
+          "lat": 9.9816,
+          "lng": 76.2999
+        },
+        {
+          "name": "Thrissur",
+          "lat": 10.5276,
+          "lng": 76.2144
+        },
+        {
+          "name": "Guruvayur",
+          "lat": 10.594,
+          "lng": 76.041
+        }
+      ],
+      "id": "9dc6"
+    },
+    {
+      "id": "0a46",
+      "from": "thiruvananthapuram",
+      "to": "kayamkulam",
+      "type": "AC Bus",
+      "departure": "15:01",
+      "arrival": "16:02",
+      "distance": "116 km"
+    }
+  ]
+}
