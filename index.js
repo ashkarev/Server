@@ -5,8 +5,8 @@ const  middleWare=jsonServer.defaults()
 
 const route=jsonServer.router('db.json')
 
-server.middleWare()
-server.use()
+server.use(middleWare)
+server.use(route)
 
 const PORT=process.env.PORT ||3000
 server.listen(PORT,()=>{
